@@ -10,3 +10,8 @@ expression recognition, features with reduced dimension are used to boost the pe
 are conducted on two public-domain datasets: JAFFE for facial expression recognition and YALE for face recognition. The
 experiment results show the best overall accuracy of 92.12% compared to other existing works. It demonstrates a fast execution
 time for face recognition ranging from 0.4 to 0.7 s in all evaluated databases.
+
+Cite please the paper : 
+  Farid Ayeche, Adel Alti:
+  HDG and HDGG: an extensible feature extraction descriptor for effective face and facial expressions recognition. 
+  Pattern Anal. Appl. 24(3): 1095-1110 (2021)
